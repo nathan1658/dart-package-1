@@ -1,7 +1,7 @@
 library dart_package_1;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+class DartPackage1 {
+  String get Version {
+    return '0.0.1';
+  }
 }
